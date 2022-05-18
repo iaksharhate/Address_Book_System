@@ -13,7 +13,6 @@ public class AddressBookMain {
         do {
             System.out.println("Enter your choice: ");
             System.out.println("1: Create contact.");
-            System.out.println("2: Display contact.");
             System.out.println("0: Exit.");
             choice = input1.nextInt();
 
